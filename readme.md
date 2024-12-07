@@ -1,8 +1,6 @@
 # Simple Tailwind Starter
 
-This is a simple Tailwind starter project using the Tailwind CLI. It is meant to be used as a starting point for your projects. This is the same setup used in my [Tailwind From Scratch Course](https://www.traversymedia.com/tailwind-css-course).
-
-## Usage
+## Usage or use Template
 
 Clone the repo:
 
