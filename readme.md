@@ -2,11 +2,8 @@
 
 ## Usage or use Template
 
-Clone the repo:
+use this template then 
 
-```bash
-git clone
-```
 
 Install the dependencies:
 
